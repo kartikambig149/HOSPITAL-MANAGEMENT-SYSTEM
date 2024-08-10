@@ -1,2 +1,2 @@
-# HOSPITAL-MANAGEMENT-SYSTEM
+# hospital_management
 #AUTHOR KARTIK AMBIG
